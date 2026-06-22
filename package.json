@@ -22,8 +22,8 @@
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts"
   },
   "engines": {
-    "npm": ">=10.9.2",
-    "node": ">=22"
+    "npm": "10.x",
+    "node": "22.x"
   },
   "keywords": [
     "site generator",
